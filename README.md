@@ -2,4 +2,4 @@
 
 MVP架构demo
 
-![](https://cdn.jsdelivr.net/gh/maokaigang/img/ipquery/preview.jpg)
+![<img src="https://cdn.jsdelivr.net/gh/maokaigang/img/ipquery/preview.jpg" style="zoom:30%;" />](https://cdn.jsdelivr.net/gh/maokaigang/img/ipquery/preview.jpg)
