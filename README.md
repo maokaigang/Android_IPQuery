@@ -2,4 +2,4 @@
 
 MVP架构demo
 
-https://cdn.jsdelivr.net/gh/maokaigang/img/ipquery/preview.jpg
+![https://cdn.jsdelivr.net/gh/maokaigang/img/ipquery/preview.jpg]
